@@ -10,6 +10,7 @@ namespace lab1e
     {
         static void Main(string[] args)
         {
+            //edit from github
         }
     }
 }
