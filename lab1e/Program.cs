@@ -12,6 +12,7 @@ namespace lab1e
         {
             //edit from github
             //Edit in Visual Studio
+            Console.WriteLine("hello world");
         }
     }
 }
